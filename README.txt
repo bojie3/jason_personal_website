@@ -41,3 +41,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+Name, Email, Mobile, Key collection / start work date, Ideal move in date, Unit type, Number of rooms, Areas of works, Address, Budget for renovation, Preferred theme or styles
